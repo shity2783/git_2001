@@ -22,4 +22,8 @@ class Git2001ApplicationTests {
     public void findAll(){
 
     }
+
+    public void findOne(){
+
+    }
 }
