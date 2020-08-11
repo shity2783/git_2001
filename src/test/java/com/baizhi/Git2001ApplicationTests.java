@@ -28,4 +28,8 @@ class Git2001ApplicationTests {
 
     }
 
+    public void test(){
+
+    }
+
 }
