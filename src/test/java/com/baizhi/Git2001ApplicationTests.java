@@ -16,5 +16,6 @@ class Git2001ApplicationTests {
         System.out.println("update in github");
 	    System.out.println("update in local");
         System.out.println("update in idea");
+        System.out.println("update in idea and git");
     }
 }
