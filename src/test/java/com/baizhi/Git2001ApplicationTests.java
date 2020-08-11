@@ -22,6 +22,7 @@ class Git2001ApplicationTests {
 
     public void findAll() {
         System.out.println("开发者A的修改");
+	System.out.println("开发者A的修改2");
     }
 
     public void findOne(){
