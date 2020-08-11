@@ -19,9 +19,7 @@ class Git2001ApplicationTests {
         System.out.println("update in idea and git");
     }
 
-    public void findAll(){
 
-    }
 
     public void findOne(){
 
